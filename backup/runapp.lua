@@ -1,0 +1,1 @@
+runApp("com.z2live.battlenations1")
